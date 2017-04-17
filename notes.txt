@@ -1,0 +1,44 @@
+- System Requirements Document (SRD) [ User Stories ] : You + Customer
+- Sketching : You -> Show to customer
+- Photoshop : You -> Show to customer
+
+HTML + CSS: You -> Send to programmer
+
+Programming: Programmer
+
+School Managment System
+----------------------------
+[1]
+Students Management Component
+	- Student Registration [1]
+		- Registration Form ( Web + Mobile ) [1.1]
+			- Form Fields 
+		  		- First Name (*)
+		  		- Last Name (*)
+		  		- Gender (*)
+		  		- Address (*)
+		  		- Contact No (*)
+		  		- Email 
+
+		  	- Validation: FieldName + is required [1.2]
+			- Confirmation page after the registration success [1.2]
+
+
+	- Listing Students
+	- Updating Student Profile
+	- Sending SMS + Email to one student or group of students
+
+
+
+
+
+
+
+
+
+Taechers 
+Subjects
+Classes
+SMS - EMail System ( Messaing )
+
+
